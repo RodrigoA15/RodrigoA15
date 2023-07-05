@@ -1,5 +1,5 @@
 Hola, mi nombre es Rodrigo Papamija 👋
-### Freelance full-stack iOS & Android engineer
+### Software Developer
 
 
 
