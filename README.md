@@ -19,7 +19,7 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo Papamija-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rodrigo-andrés-7633001b0/)
+[![LinkedIn](linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rodrigo-andrés-7633001b0/)
 
 ## Contacto
 
