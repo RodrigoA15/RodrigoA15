@@ -34,7 +34,7 @@ src="https://camo.githubusercontent.com/36a036c958a8f1c8be8c4721ce894e559009d650
 
 ### 🐍 Snake Eating My Contributions
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" style="visibility:visible;max-width:100%;"/>
 </div>
 ---
 
