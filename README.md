@@ -27,7 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RodrigoA15&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoA15&amp;theme=default&amp;hide_border=true" alt="GitHub Streak" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoA15&layout=compact&theme=ligth&hide_border=true" alt="Top Languages" width="48%" />
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeticiaLemeHub/LeticiaLemeHub/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 </div>
 ---
 
