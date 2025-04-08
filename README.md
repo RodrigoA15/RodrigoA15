@@ -25,7 +25,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RodrigoA15&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-   <img src="https://camo.githubusercontent.com/3e30e1956ea10579a73181fab7cae12fd38a12d483fbb399780101d3fb3829dd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4c6574696369614c656d65487562267468656d653d7472616e73706172656e74" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoA15&amp;theme=transparent" style="max-width: 100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoA15&amp;theme=default&amp;hide_border=true" alt="GitHub Streak" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoA15&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 ---
