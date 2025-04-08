@@ -34,4 +34,4 @@ Y alguna más...
 
 [![Email](https://img.shields.io/badge/rodri150306@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/u/0/#inbox)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/RodrigoA15)
+![Leetcode Stats](https://leetcard.jacoblin.cool/rodrigoa15)
