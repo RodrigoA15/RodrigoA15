@@ -6,7 +6,7 @@
   </a>
 </p>
 ---
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 <div class="tech-icons">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -31,7 +31,7 @@
 </div>
 ---
 
-### 🐍 Snake Eating My Contributions
+🐍 Snake Eating My Contributions
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" style="visibility:visible;max-width:100%;"/>
 </div>
