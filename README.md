@@ -20,24 +20,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-
-  ## Tecnologías:
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Php](https://img.shields.io/badge/PHP-4479A1?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-</br>
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Express](https://img.shields.io/badge/EXPRESS-339933?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
-[![LARAVEL](https://img.shields.io/badge/LARAVEL-D14836?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
-[![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![FAST](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
-</br>
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/POSTGRESSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
-[![Oracle](https://img.shields.io/badge/ORACLE-D14836?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
-</br>
-Y alguna más...
 </div>
 ---
 ### 📊 GitHub Stats
@@ -75,6 +57,3 @@ Y alguna más...
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-
-
