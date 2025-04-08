@@ -27,8 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RodrigoA15&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoA15&amp;theme=default&amp;hide_border=true" alt="GitHub Streak" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoA15&layout=compact&theme=ligth&hide_border=true" alt="Top Languages" width="48%" />
-  <img align="right" alt="Totoro"       
-src="https://camo.githubusercontent.com/36a036c958a8f1c8be8c4721ce894e559009d650489502b233e7a1b91a1e48df/68747470733a2f2f6d656469612e74656e6f722e636f6d2f3250564837684172582d30414141416a2f746f746f726f2d6a  756d70696e672e676966" data-canonical-src="https://media.tenor.com/2PVH7hArX-0AAAAj/totoro-jumping.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img align="right" alt="Totoro" src="https://tenor.com/bNXYxZnnSb7.gif">
 </div>
 ---
 
